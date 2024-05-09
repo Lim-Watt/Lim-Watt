@@ -4,7 +4,7 @@
 
 1. 英文：Lim Watt
 
-1. 中文：晓霞
+1. 中文：[晓霞](https://github.com/Lim-Watt/Lim-Watt/blob/main/zi.md)
 
 1. ~~昵称：为什么告诉你？~~ 
 
