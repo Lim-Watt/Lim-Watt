@@ -2,9 +2,9 @@
 
 ## 名称
 
-1. 英文：[Lim Watt](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/name.md)
+1. 英文：Lim Watt
 
-1. 中文：[晓霞](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/zi.md)
+1. 中文：晓霞
 
 1. ~~昵称：为什么告诉你？~~ 
 
@@ -45,3 +45,10 @@
 ~~啊？咱还没成年呢！~~
 
 如果…你嫌自己命长的话……那…咱也不是不能考虑一下………
+
+----
+
+## 其他
+
+2. [关于这个英文名](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/name.md)。
+1. [关于这个中文名](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/zi.md)。
