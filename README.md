@@ -50,5 +50,6 @@
 
 ## 其他
 
-2. [关于这个英文名](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/name.md)。
+1. [关于这个英文名](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/name.md)。
 1. [关于这个中文名](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/zi.md)。
+1. [关于她的房子](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/house.md)。
