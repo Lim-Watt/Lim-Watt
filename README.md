@@ -2,7 +2,7 @@
 
 ## 名称
 
-1. 英文：Lim Watt
+1. 英文：[Lim Watt](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/name.md)
 
 1. 中文：[晓霞](https://github.com/Lim-Watt/Lim-Watt/blob/main/description/zi.md)
 
